@@ -18,7 +18,7 @@ pip install pandas beautifulsoup4 requests
     2. Open a terminal or command prompt and navigate to the directory containing the book_scraper.py file.
     3. Run the script using the following command:
 
-		python book_scraper.py
+		python book_scraper.ipny
 
    4. The script will scrape the book information and save it to a file named books.csv in the same directory.
 
